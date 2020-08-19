@@ -10,4 +10,4 @@ smtplib
 
 how to use :
 
-edit the config.py file before send mails
+edit the config.py file before sending mails
